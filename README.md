@@ -4,6 +4,7 @@ A simple main.py and associated supporting code to help smooth local development
 
 Files listed in `.gcloudignore` are ignored when deploying to GCF through the `gcloud` command line (see [documentation](https://cloud.google.com/sdk/gcloud/reference/topic/gcloudignore)).
 
+---
 
 Cloud Functions passes the Flask request object to your function, along with additional paths in the URL. For example, a HTTP Function as follows:
 
