@@ -1,4 +1,4 @@
-# Boilerplate for HTTP Google Cloud Functions Python 3.7 runtime
+## Boilerplate for HTTP Google Cloud Functions Python 3.7 runtime
 
 A simple main.py and associated supporting code to help smooth local development with HTTP triggered functions.
 
